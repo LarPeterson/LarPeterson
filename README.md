@@ -33,5 +33,5 @@
 
 
 
-<p align="center">Why did the two Java methods get a divorce?<br>Because they had constant arguments.</p>
+<p align="center"> <b>Why did the two Java methods get a divorce?<br>Because they had constant arguments.</b> </p>
 
